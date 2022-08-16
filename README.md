@@ -17,3 +17,4 @@ If you wish to help improve the CLI, please see the [Contributing guide][contrib
 
 [exercism]: http://exercism.io
 [contributing]: /CONTRIBUTING.md
+ pp
