@@ -1,0 +1,20 @@
+{
+  "authors": [
+    "ErikSchierboom"
+  ],
+  "contributors": [
+    "yzAlvin"
+  ],
+  "files": {
+    "solution": [
+      "BirdWatcher.cs"
+    ],
+    "test": [
+      "BirdWatcherTests.cs"
+    ],
+    "exemplar": [
+      ".meta/Exemplar.cs"
+    ]
+  },
+  "blurb": "Learn about arrays by keeping track of how many birds visit your garden."
+}
