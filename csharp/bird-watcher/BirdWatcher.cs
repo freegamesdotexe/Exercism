@@ -11,12 +11,13 @@ class BirdCount
 
     public static int[] LastWeek()
     {
-        throw new NotImplementedException("Please implement the (static) BirdCount.LastWeek() method");
+        int[] birdCount = { 0, 2, 5, 3, 7, 8, 4 };
+        return birdCount;
     }
 
     public int Today()
     {
-        throw new NotImplementedException("Please implement the BirdCount.Today() method");
+        return birdsPerDay[birdsPerDay.Length - 1];
     }
 
     public void IncrementTodaysCount()
